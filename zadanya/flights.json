@@ -1,0 +1,12 @@
+[
+    {
+        "destination": "москва",
+        "number_flight": 101,
+        "type_plane": "Boeing737"
+    },
+    {
+        "destination": "москва",
+        "number_flight": 101,
+        "type_plane": "Boeing737"
+    }
+]
